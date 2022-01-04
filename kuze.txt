@@ -1,2 +1,5 @@
 Kuze mos
 Mudancas para que pudemos saber quem e certoget 
+puts "please enter a name"
+name = gets.chomp
+puts "Hi #{name}"
